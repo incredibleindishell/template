@@ -7,7 +7,7 @@ Author: Hardeep Singh
 Author URI: http://hackerschronicle.com
 Description: Main CSS file for Mannulinux.org (error1046's Blog)
 ----------------------------------------------- */
-@import "http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css";
+@import "https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css";
 @charset "utf-8";
 #navbar-iframe, .date-header {display:none !important}
 
